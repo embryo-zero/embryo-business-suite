@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Business Suite
+
+**Embryo Business Suite** is Embryo-Zero's fork of [odoo](https://github.com/odoo/odoo), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Odoo
 
 [![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
